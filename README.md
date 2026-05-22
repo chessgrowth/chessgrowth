@@ -33,7 +33,7 @@
 <img align="right" height="220" src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif"/>
 
 ```yaml
-name: Benedicte
+name: Benedicte Abidé TALBOUSSOUMA
 located_in: France
 
 currently_learning:
