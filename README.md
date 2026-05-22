@@ -1,110 +1,135 @@
-<h4 align="left">Hey 👋 What's up?</h4>
-
-###
-
-<p align="left">My name is Benedicte and I'm a Bachelor’s student in AI Development & Data Science, from France.</p>
-
-###
+<!-- ======================= HEADER ======================= -->
 
 <div align="center">
-  <img height="200" src="https://i.ibb.co/LDp5qCjq/Effortless.gif"  />
+
+# Hey 👋, I'm Benedicte
+
+### AI Development & Data Science Student • Future AI Engineer • Fullstack Explorer
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=8A2BE2&center=true&vCenter=true&width=700&lines=AI+%26+Data+Science+Student;Fullstack+Development+Enthusiast;Building+ideas+into+real+solutions;Always+learning+new+technologies" alt="Typing SVG" />
+
 </div>
 
-###
+---
 
-<h2 align="left">About me</h2>
+<!-- ======================= GIF ======================= -->
 
-###
-
-<p align="left">✨ Creating bugs since I started coding (and learning how to fix them 😄)<br>📚 I'm currently learning Artificial Intelligence, Machine Learning, Data Science, and software engineering<br>💻 I also enjoy fullstack development out of curiosity, because I like building complete applications from backend to frontend<br>🎯 My goal is to create real-world solutions by combining AI, data, and web applications<br>🚀 I enjoy turning my ideas and curiosity into real, working projects<br>🎲 Fun fact: I love understanding how systems work behind the scenes, especially AI models and web architectures</p>
-
-###
-
-<h2 align="left">I code with</h2>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="angularjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="40" alt="matlab logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="40" alt="r logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" height="40" alt="rstudio logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="vuejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" height="40" alt="socketio logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" alt="pycharm logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" height="40" alt="notion logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="40" alt="nestjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" height="40" alt="markdown logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40" alt="laravel logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" height="40" alt="kaggle logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
+<div align="center">
+  <img height="260" src="https://i.ibb.co/LDp5qCjq/Effortless.gif"/>
 </div>
 
-###
+---
 
-<div align="left">
-  <a href="www.linkedin.com/in/benedicte-talboussouma-783742293" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
+<!-- ======================= ABOUT ME ======================= -->
+
+## 🌸 About Me
+
+<img align="right" height="180" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGZ6dzFqMDF0YXQ1cW5vdmxpb3J2N2E5YWt2dTRvN3h1bWVhNzFmNCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlNaQ6gWfllcjDO/giphy.gif"/>
+
+✨ Creating bugs since I started coding — and learning how to fix them 😄
+
+📚 Currently learning:
+- Artificial Intelligence
+- Machine Learning
+- Data Science
+- Software Engineering
+
+💻 I also enjoy exploring **Fullstack Development** because I love building complete applications from backend to frontend.
+
+🚀 My goal is to create impactful real-world solutions by combining:
+- AI
+- Data
+- Web Applications
+
+🧠 I enjoy transforming curiosity and ideas into real working projects.
+
+🎯 Passionate about understanding:
+- AI models
+- System architectures
+- Web technologies
+- Data ecosystems
+
+🎲 Fun fact:  
+I genuinely enjoy learning how things work behind the scenes.
+
+<br clear="both">
+
+---
+
+<!-- ======================= TECH STACK ======================= -->
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+### Languages
+<img src="https://skillicons.dev/icons?i=python,java,js,ts,r,html,css" />
+
+### Frontend
+<img src="https://skillicons.dev/icons?i=react,nextjs,vue,angular,tailwind" />
+
+### Backend
+<img src="https://skillicons.dev/icons?i=nodejs,nestjs,django,spring,laravel" />
+
+### Databases
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
+
+### AI / Data Science
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="48"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="48"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" height="48"/>
+
+### Tools & Platforms
+<img src="https://skillicons.dev/icons?i=docker,git,github,figma,notion,npm,pycharm" />
+
 </div>
 
-###
+---
+
+<!-- ======================= GITHUB STATS ======================= -->
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=TON_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TON_USERNAME&layout=compact&theme=tokyonight&hide_border=true&border_radius=15"/>
+
+</div>
+
+---
+
+<!-- ======================= STREAK ======================= -->
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=TON_USERNAME&theme=tokyonight&hide_border=true&border_radius=15"/>
+
+</div>
+
+---
+
+<!-- ======================= SOCIALS ======================= -->
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/benedicte-talboussouma-783742293" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" height="55"/>
+</a>
+
+</div>
+
+---
+
+<!-- ======================= SNAKE ======================= -->
+
+## 🐍 Contribution Graph
+
+<div align="center">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/chessgrowth/chessgrowth/pacman-output/pacman-contribution-graph-dark.svg">
@@ -112,8 +137,18 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/chessgrowth/chessgrowth/pacman-output/pacman-contribution-graph.svg">
 </picture>
 
-###
+<br><br>
 
 <img src="https://raw.githubusercontent.com/chessgrowth/chessgrowth/snake-output/snake.svg" alt="Snake animation" />
 
-###
+</div>
+
+---
+
+<!-- ======================= FOOTER ======================= -->
+
+<div align="center">
+
+### ✨ "Turning curiosity into intelligent solutions."
+
+</div>
