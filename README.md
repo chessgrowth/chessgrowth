@@ -1,4 +1,3 @@
-Je suis allé dans README.md et j'ai appuyé sur edit ensuite, j'ai copié allé ça :
 <!-- ===================================================== -->
 <!--                    HEADER / INTRO                     -->
 <!-- ===================================================== -->
