@@ -1,3 +1,4 @@
+Je suis allé dans README.md et j'ai appuyé sur edit ensuite, j'ai copié allé ça :
 <!-- ===================================================== -->
 <!--                    HEADER / INTRO                     -->
 <!-- ===================================================== -->
@@ -12,7 +13,7 @@
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=TON_USERNAME&label=Profile+Views&color=A855F7&style=for-the-badge" />
+
 
 </div>
 
@@ -23,47 +24,37 @@
 <!-- ===================================================== -->
 
 <div align="center">
-
 <img height="280" src="https://i.ibb.co/LDp5qCjq/Effortless.gif"/>
-
 </div>
 
 ---
-
-<!-- ===================================================== -->
-<!--                      ABOUT ME                         -->
-<!-- ===================================================== -->
 
 # 🌸 About Me
 
 <img align="right" height="220" src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif"/>
 
 ```yaml
-name: Benedicte Abidé TALBOUSSOUMA
+name: Benedicte
 located_in: France
 
 currently_learning:
-  [
-    "Artificial Intelligence",
-    "Machine Learning",
-    "Data Science",
-    "Software Engineering"
-  ]
+  - Artificial Intelligence
+  - Machine Learning
+  - Data Science
+  - Software Engineering
 
 interests:
-  [
-    "AI Systems",
-    "Data Engineering",
-    "Web Applications",
-    "Fullstack Development"
-  ]
+  - AI Systems
+  - Data Engineering
+  - Web Applications
+  - Fullstack Development
 
 goal:
-  "Build intelligent and impactful real-world solutions"
+  Build intelligent and impactful real-world solutions
 
 mindset:
-  "Turning curiosity and ideas into real projects 🚀"
-<br>
+  Turning curiosity and ideas into real projects 🚀
+```
 
 ✨ Creating bugs since I started coding — and learning how to fix them 😄
 
@@ -84,8 +75,7 @@ Modern Web Technologies
 
 to create innovative and useful applications.
 
-<br clear="both">
-<!-- ===================================================== --> <!-- TECH STACK --> <!-- ===================================================== -->
+<br clear="both"/>
 ⚡ Tech Stack
 <div align="center">
 👩‍💻 Languages
@@ -109,25 +99,26 @@ to create innovative and useful applications.
 <br><br>
 
 🤖 AI / Data Science
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch&theme=dark" /> <br> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="50"/> <img width="20"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="50"/> <img width="20"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" height="50"/>
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch&theme=dark" />
+
+<br><br>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="50"/> <img width="20"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="50"/> <img width="20"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" height="50"/>
 
 <br><br>
 
 ⚙️ Tools & Platforms
 <img src="https://skillicons.dev/icons?i=docker,git,github,figma,notion,npm,pycharm&theme=dark" /> </div>
-<!-- ===================================================== --> <!-- GITHUB STATS --> <!-- ===================================================== -->
 📊 GitHub Analytics
 <div align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TON_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&border_radius=20"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TON_USERNAME&layout=compact&theme=tokyonight&hide_border=true&border_radius=20"/>
 
 <br><br>
 
 <img src="https://github-readme-streak-stats.herokuapp.com?user=TON_USERNAME&theme=tokyonight&hide_border=true&border_radius=20"/> </div>
-<!-- ===================================================== --> <!-- TROPHIES --> <!-- ===================================================== -->
 🏆 Achievements
 <div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=TON_USERNAME&theme=tokyonight&no-frame=true&row=1&column=6"/> </div>
-<!-- ===================================================== --> <!-- CONNECT --> <!-- ===================================================== -->
 🌐 Connect With Me
 <div align="center"> <a href="https://www.linkedin.com/in/benedicte-talboussouma-783742293" target="_blank"> <img src="https://skillicons.dev/icons?i=linkedin" height="60"/> </a> <a href="mailto:YOUR_EMAIL@gmail.com"> <img src="https://skillicons.dev/icons?i=gmail" height="60"/> </a> </div>
-<!-- ===================================================== --> <!-- QUOTE --> <!-- ===================================================== --> <div align="center">
+<div align="center">
 ✨ Turning curiosity into intelligent solutions.
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient"/> </div> ```
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient"/> </div> 
